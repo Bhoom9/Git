@@ -1,3 +1,6 @@
+from telnetlib import STATUS
+
+
 print("Finally")
 print("starting the coding process now!")
 i=0
